@@ -1,0 +1,1 @@
+print("Sum of 1 to 10 is", sum(range(1, 11)))
