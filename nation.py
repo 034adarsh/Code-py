@@ -1,1 +1,0 @@
-print("Indian National Anthem")
